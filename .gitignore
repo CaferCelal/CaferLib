@@ -1,0 +1,49 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Rider cache
+.idea/
+*.iws
+*.ipr
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet fallback and cache (optional, can be large)
+.nuget/
