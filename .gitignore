@@ -47,3 +47,6 @@ _ReSharper*/
 
 # NuGet fallback and cache (optional, can be large)
 .nuget/
+
+# NuGet config (local only, not in repo)
+NuGet.config

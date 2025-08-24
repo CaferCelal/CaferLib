@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifierLib", "VerifierLib\VerifierLib.csproj", "{14764272-732B-4FEF-85C5-BFB9677FBF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifierLib.Tests", "VerifierLib.Tests\VerifierLib.Tests.csproj", "{D9423640-6C14-4D56-8781-7ADDE6F5F693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailLib", "EmailLib\EmailLib.csproj", "{036DDD2D-BD64-4AD9-92B5-AA4E684F3468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14764272-732B-4FEF-85C5-BFB9677FBF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14764272-732B-4FEF-85C5-BFB9677FBF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14764272-732B-4FEF-85C5-BFB9677FBF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14764272-732B-4FEF-85C5-BFB9677FBF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9423640-6C14-4D56-8781-7ADDE6F5F693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9423640-6C14-4D56-8781-7ADDE6F5F693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9423640-6C14-4D56-8781-7ADDE6F5F693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9423640-6C14-4D56-8781-7ADDE6F5F693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036DDD2D-BD64-4AD9-92B5-AA4E684F3468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036DDD2D-BD64-4AD9-92B5-AA4E684F3468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036DDD2D-BD64-4AD9-92B5-AA4E684F3468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036DDD2D-BD64-4AD9-92B5-AA4E684F3468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
